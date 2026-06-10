@@ -1,7 +1,4 @@
 {
   "version": 4,
-  "stationSources": [
-    "https://raw.githubusercontent.com/raffys2k/orphaned_misc/refs/heads/main/misc/data.json",
-    "https://raffys2k.github.io/data-relay/data.json"
-  ]
+  "url": "https://raffys2k.github.io/data-relay/data.json"
 }
