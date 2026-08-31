@@ -1,6 +1,6 @@
 {
-  "version": 2,
+  "version": 3,
   "stationSources": [
-    "https://raffys2k.github.io/data-relay/data2.json"
+    "https://raffys2k.github.io/data-relay/data.json"
   ]
 }
