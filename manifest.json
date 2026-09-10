@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "stationSources": [
     "https://raffys2k.github.io/data-relay/data.json"
   ]
