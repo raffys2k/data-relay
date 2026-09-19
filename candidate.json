@@ -1195,7 +1195,23 @@
   { "name": "[HU] COOLFM Sportoláshoz", "url": "https://mediagw.e-tiger.net/stream/zc20" },
   { "name": "[HU] COOLFM World Music", "url": "https://mediagw.e-tiger.net/stream/zc26" },
   { "name": "[HU] COOLFM YouTube HOT HITS!", "url": "https://mediagw.e-tiger.net/stream/zc22" },
-  
+  { "name": "[IN] Bollywood 2000's Radio", "url": "https://drive.uber.radio/uber/bollywood2000s/icecast.audio" },
+  { "name": "[IN] Bollywood 2010's", "url": "https://drive.uber.radio/uber/bollywood2010s/icecast.audio" },
+  { "name": "[IN] Bollywood Dance", "url": "https://drive.uber.radio/uber/bollywooddance/icecast.audio" },
+  { "name": "[IN] Bollywood Diwali party", "url": "https://drive.uber.radio/uber/bollywooddiwali/icecast.audio" },
+  { "name": "[IN] Bollywood Workout", "url": "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio" },
+  { "name": "[IN] Bollywood_Dance", "url": "http://drive.uber.radio/uber/bollywooddance/icecast.audio" },
+  { "name": "[IT] FOREVER 70", "url": "https://stream.laut.fm/forever70" },
+  { "name": "[IT] FOREVER 80-POP", "url": "https://stream.laut.fm/forever80-pop" },
+  { "name": "[IT] FOREVER 90", "url": "https://stream.laut.fm/forever90" },
+  { "name": "[IT] FOREVER ROCK", "url": "https://stream.laut.fm/foreverrock" },
+  { "name": "[JP] Anime Para Ti", "url": "https://stream.zeno.fm/qpn8mkt8c4duv" },
+  { "name": "[JP] asia DREAM radio - Japan Hits", "url": "https://quincy.torontocast.com:2020/stream.mp3" },
+  { "name": "[JP] J-Club Powerplay HipHop(Asia DREAM Radio)", "url": "https://kathy.torontocast.com:3350/;?shoutcast" },
+  { "name": "[JP] J-Pop Sakura (asia DREAM radio)", "url": "https://quincy.torontocast.com:2070/stream.mp3" },
+  { "name": "[JP] J-Rock Powerplay(Asia DREAM Radio)", "url": "https://kathy.torontocast.com:3340/;?shoutcast" },
+  { "name": "[JP] Jazz Sakura (asia dream radio)", "url": "http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3" },
+
 
 
 
@@ -1322,7 +1338,6 @@
   { "name": "[US] idobi Anthm", "url": "http://idobianthm.idobi.com/;stream.mp3" },
   { "name": "[US] idobi Howl", "url": "http://idobihowl.idobi.com/;stream.mp3" },
   { "name": "[US] idobi Radio", "url": "http://idobiradio.idobi.com/;stream.mp3" },
-  { "name": "[US] JPop Powerplay Kawaii", "url": "http://kathy.torontocast.com:3060/stream/1/" },
   { "name": "[US] KONG Monster Rock", "url": "http://s5.total-streaming.com:9786/;stream.mp3" },
   { "name": "[US] LITT 1580", "url": "https://das-sa39.cdnstream1.com/5556_128" },
   { "name": "[US] LITT Live - 90's", "url": "https://das-sa39.cdnstream1.com/5560_128" },
