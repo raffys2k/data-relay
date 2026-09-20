@@ -1471,10 +1471,6 @@
   { "name": "[SK] Fun Radio CZ", "url": "http://stream.funradio.sk:8000/cs128.mp3" },
   { "name": "[SK] Fun Radio Dance", "url": "http://stream.funradio.sk:8000/dance128.mp3" },
   { "name": "[SK] Funrádio Mileniálky", "url": "http://stream.funradio.sk:8000/milenialky128.mp3" },
-
-
-
-
   { "name": "[US] 1-The Eagle 181fm", "url": "https://listen.181fm.com/181-eagle_128k.mp3" },
   { "name": "[US] 1000 Chrismas Songs", "url": "https://ais-sa2.cdnstream1.com/2553_128.mp3" },
   { "name": "[US] 100hitz - 90's Alternative", "url": "http://pureplay.cdnstream1.com/6040_128.mp3" },
