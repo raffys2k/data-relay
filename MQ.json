@@ -281,7 +281,7 @@
   { "name": "[MX] Azul Radio", "url": "https://miradiost.com/listen/azulradio/radio.mp3" },
   { "name": "[MX] Azul Radio Veracruz", "url": "https://miradiost.com/listen/azulradioveracruz/radio.mp3" },
   { "name": "[MX] Baladas del Recuerdo", "url": "https://stream-165.zeno.fm/g7vk70rqr68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnN3ZrNzBycXI2OHV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkRjREZrSkpzUmZHMGVuUGxaRzRxQUEiLCJpYXQiOjE3NTk3NjYwNzEsImV4cCI6MTc1OTc2NjEzMX0.pAurlXoSheL8O5TAQ3" },
-  { "name": "[MX] Bandolera 92.3 FM", "url": "https://ss1.audiorama.com.mx:6570/stream" },
+  
   { "name": "[MX] BEATLES RADIO", "url": "http://stream.zeno.fm/e4auhdgm6cquv" },
   { "name": "[MX] Best FM - Best Retro Music in English", "url": "https://stream.zeno.fm/9ep9qg3za6quv" },
   { "name": "[MX] bibra fm los mochis", "url": "https://sp3.servidorrprivado.com:10828/stream" },
@@ -438,9 +438,7 @@
   { "name": "[MX] La Mejor Puerto Vallarta - 99.9 FM - XHCJX-FM - MVS Radio - Puerto Vallarta, JC", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJX_SC" },
   { "name": "[MX] La Mejor Tampico - 100.1 FM - XHJT-FM - MVS Radio - Tampico, TM", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJT_SC" },
   { "name": "[MX] La Mejor Torreón (Estéreo Gallito) - 97.1 FM - XHPE-FM - Grupo Radio Estéreo Mayran - Torreón, CO", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPE_SC" },
-  { "name": "[MX] La Mera Jefa 93.7 FM Guasave", "url": "https://a6.asurahosting.com:7990/radio.mp3" },
-  { "name": "[MX] La Mexicana 92.3 FM Culiacán", "url": "https://a6.asurahosting.com:7900/radio.mp3" },
-  { "name": "[MX] La Mexicana 93.3 FM Los Mochis", "url": "https://a6.asurahosting.com:7910/radio.mp3" },
+  
   { "name": "[MX] La Mexicana Oaxaca 94.9 FM", "url": "https://stream.zeno.fm/0foxzyrupdutv" },
   { "name": "[MX] La Mexicanita sapichu 104.5 FM El Sicuicho", "url": "https://stream.zeno.fm/cq155y9exzzuv?1729138903337" },
   { "name": "[MX] La Morrita 96.1 Los Mochis", "url": "https://audiostreaming.luz.network/stream/19/;" },
@@ -656,8 +654,7 @@
   { "name": "[MX] Vintage 94.1 HD2 Culiacán", "url": "https://audiostreaming.luz.network/stream/8/;" },
   { "name": "[MX] Viva El Mariachi", "url": "https://stream-144.zeno.fm/gs4xg5s0csmtv?zs=DiHqEIidR0ejJ3Bwp-pUKA" },
   { "name": "[MX] Viva El Mariachi", "url": "http://stream-48.zeno.fm/gs4xg5s0csmtv?zs=fpe9FmGvSNuTKvhiQP2myQ" },
-  { "name": "[MX] Viva El Mariachi", "url": "https://stream-48.zeno.fm/gs4xg5s0csmtv?zs=fpe9FmGvSNuTKvhiQP2myQ" },
-  { "name": "[MX] Viva El Mariachi Radio", "url": "https://stream.zenolive.com/sy87dubz5f5tv" },
+  
   { "name": "[MX] Vive FM (Tehuacán) - 106.3 FM - XHETE-FM - Cinco Radio - Tehuacán, Puebla", "url": "https://stream.zeno.fm/nnrwdakzm18uv" },
   { "name": "[MX] VN RADIO", "url": "https://listen.radioking.com/radio/920061/stream/991016" },
   { "name": "[MX] Voces (Acapulco) - 92.1 FM - XHACD-FM - Grupo Audiorama Comunicaciones - Acapulco, GR", "url": "https://ss1.audiorama.com.mx:6612/stream" },
@@ -828,13 +825,13 @@
   { "name": "[NL] mArt radio", "url": "https://beta.surilive.com/mart/stream" },
   { "name": "[NL] Michel Grevink", "url": "https://stream.twentestad.eu/twentestad.mp3" },
   { "name": "[NL] Mushroom Radio", "url": "https://radio.goodtimesbadtimes.club/radio/8020/radio.mp3" },
-  { "name": "[NL] Non Stop AlexFM", "url": "https://radioalexfmhits.stream.laut.fm/radioalexfmhits?ref=web-app&start_time=1709718823255" },
+  
   { "name": "[NL] NPO Radio %", "url": "https://icecast.omroep.nl/radio5-sb-mp3" },
   { "name": "[NL] NPO Radio 1", "url": "https://icecast.omroep.nl/radio1-sb-mp3" },
-  { "name": "[NL] Omroep Zeeland Radio", "url": "https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio" },
+  
   { "name": "[NL] OnDair", "url": "https://stream.zeno.fm/vistyzosypbvv" },
   { "name": "[NL] Pitane Blue Nieuwsradio", "url": "https://stream.radio.co/sd1419d32a/listen" },
-  { "name": "[NL] Pureclassix", "url": "http://server5.radio-streams.net:8001/live" },
+  
   { "name": "[NL] Radio 10", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3" },
   { "name": "[NL] Radio 10", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3?dist=radio10_web&amp;ttag=talpa_consent:0&amp;gdpr=1&amp;gdpr_consent=CPR8CQMPR8CRCADABCNLB7CgAAAAAEJAAAAAAAAMEgKgAVAAuACAAGQARAAmgBPADEAH4AQAAjABXADvAIQARYAjgBOwCsgIpAXmAwQAsJAJAAqACAAGQARAAmABPAHeARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAwALgCuAIQUgFgAVABAADIAIgATAAngBiAHeARYAjgC8ygAIAC4BOyQAEAC5KAMAEQAJgAYgB3gEcAXmQgCABMADEAO8AjgYACAK4VADACYARwBeYyAGAEwAjgC8w.YAAAAAAAA4AA" },
   { "name": "[NL] Radio 10", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/radio10.mp3" },
@@ -848,9 +845,7 @@
   { "name": "[NL] RADIO 10 TOP 4000", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3" },
   { "name": "[NL] Radio 538", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3" },
   { "name": "[NL] Radio 538 Hitzone", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3" },
-  { "name": "[NL] Radio 538 Ibiza", "url": "http://22343.live.streamtheworld.com/TLPSTR19_SC" },
-  { "name": "[NL] Radio 538 Nonstop", "url": "http://20133.live.streamtheworld.com/TLPSTR09_SC" },
-  { "name": "[NL] Radio 538 Party", "url": "http://29023.live.streamtheworld.com:3690/TLPSTR16_SC" },
+  
   { "name": "[NL] Radio 538 Verrückte Stunde", "url": "http://28973.live.streamtheworld.com:3690/TLPSTR21_SC" },
   { "name": "[NL] RADIO ALEX FM CHRISTMAS NL/DE", "url": "https://stream.laut.fm/radioalexfmchristmas" },
   { "name": "[NL] Radio Caroline 259 Gold", "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio128.mp3" },
@@ -867,7 +862,7 @@
   { "name": "[NL] Radio SBS", "url": "http://live.radiosbs.nl:8272/radiosbs" },
   { "name": "[NL] Radio Stad Centraal", "url": "https://stream.hostbee.nl:7029/stream" },
   { "name": "[NL] Radio Stad Centraal", "url": "http://83.87.109.251:8012/listen" },
-  { "name": "[NL] Radio Superstar", "url": "http://kippingmultimediaal.nl:8000/superMP3" },
+  
   { "name": "[NL] Radio Time Out Trance", "url": "https://s3.slotex.pl/shoutcast/7056/stream" },
   { "name": "[NL] Radio Veronica", "url": "https://19993.live.streamtheworld.com/VERONICA_SC" },
   { "name": "[NL] Radio Veronica Live", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3" },
@@ -890,15 +885,12 @@
   { "name": "[NL] Sky Radio Nederland", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3?dist=skyradio_web&amp;ttag=talpa_consent:1&amp;gdpr=1&amp;gdpr_consent=CPd5woAPd5woAADABBNLCcCsAP_AAEJAAAAAGgQGAAKgAXABAADIAIkATABNACeAGIANwAfgBAACMAHeAQgAi0BHAEdAJcATsArICKQF5gL2AYIA0ADBICYAFQALgAgABkAEQAJoATwAxAB-AEAAIwAd4BCACLQEcAR0AnYCKQF5gMEAKCQCQAKgAgABkAEQAJgATwB3gEcAXmKgBgBMAI4AvMZADACYARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAgALgEIIQBAAmABiAHeARwkABAAuSgDABEACYAGIAd4BHAF5lIBYAFQAQAAyACIAEwAJ4AYgB3gEWAI4AvMoABAAuA.e8AAAAAAA7AA%22%20title=%22Sky%20Radio%20-%20Non-Stop%22" },
   { "name": "[NL] Sky Radio Nice & Easy", "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3" },
   { "name": "[NL] Sky Radio Non-Stop", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3" },
-  { "name": "[NL] Slam! 00's", "url": "https://22353.live.streamtheworld.com/WEB15_MP3_SC" },
-  { "name": "[NL] Slam! 40", "url": "https://22673.live.streamtheworld.com/WEB14_MP3_SC" },
+  
   { "name": "[NL] Soul Radio", "url": "http://soulradio02.live-streams.nl/live" },
-  { "name": "[NL] Soundtrack Radio Station", "url": "http://quincy.torontocast.com:2410/stream" },
+  
   { "name": "[NL] SRC Rivierenland", "url": "https://cc6.beheerstream.com/proxy/src1?mp=/stream;stream.mp3" },
-  { "name": "[NL] Starlicht", "url": "http://live.urkfm.nl:8000/urkfm.mp3" },
-  { "name": "[NL] The Arabnights Radio", "url": "http://arabnights-prod.live-streams.nl:8020/live" },
-  { "name": "[NL] The Best House Rhythms from Amsterdam.", "url": "http://radio.a1lounge.com/" },
-  { "name": "[NL] The Great American Songbook", "url": "http://tgas.dyndns.org:8001/;" },
+  
+  
   { "name": "[NL] The MOD Station", "url": "http://23.81.35.187:8030/stream" },
   { "name": "[NL] The SID Station", "url": "http://23.81.35.187:8144/stream" },
   { "name": "[NL] Tigray Beat FM Radio", "url": "https://stream.zeno.fm/pd13h8kft68uv" },
@@ -978,8 +970,7 @@
   { "name": "[NZ] Power Hit FM 87.8 - Christchurch, NZ", "url": "http://listen.powerhitfm.co.nz:16100/stream" },
   { "name": "[NZ] RadiJohan", "url": "http://69.30.214.54:13740/;?type=http&nocache=1708209708?0.5747864581171453" },
   { "name": "[NZ] Radio - X", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox" },
-  { "name": "[NZ] Radio A", "url": "https://play.radioking.io/radio-a-music" },
-  { "name": "[NZ] Radio Bolly Bop", "url": "http://s3.radio.co/s2f19d44d0/listen" },
+  
   { "name": "[NZ] Radio BurgerFuel", "url": "https://s3.radio.co/s9909bd65f/listen" },
   { "name": "[NZ] Radio Chinese FM90.6", "url": "https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081" },
   { "name": "[NZ] Radio One 91FM", "url": "https://play.r1.co.nz/live" },
@@ -1034,7 +1025,7 @@
   { "name": "[PE] JVM la Estación (Cusco)", "url": "https://jvmlaestacion.stream.laut.fm/jvmlaestacion?t302=2026-09-06_13-51-15&uuid=ada05243-f1bb-49ed-a3e4-d9300b5c1033" },
   { "name": "[PE] Kaizen Live Radio", "url": "https://radiostreaming.pro/8386/stream" },
   { "name": "[PE] Ke Brava", "url": "https://stream.zenolive.com/59947b1wfuquv" },
-  { "name": "[PE] La Noventera", "url": "https://host.gometri.com/proxy/lanoventera/stream/" },
+  
   { "name": "[PE] la Noventera", "url": "https://streaming.gometri.com/stream/8043/stream" },
   { "name": "[PE] La Salsa Maestra", "url": "https://stream.zeno.fm/c1skkw28pfeuv" },
   { "name": "[PE] La unica Tropical", "url": "https://stream-178.surfernetwork.com/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjQsImp0aSI6Il8yWHZtdG1PVFJLQVo3M2FkOUU2QmciLCJpYXQiOjE3ODg2OTE0MzMsImV4cCI6MTc4ODY5MTQ5M30.vg7lJHNOwvgUNTrfCQ4i-I4A5ls5ontqZFgpzzJmvBY" },
@@ -1049,8 +1040,8 @@
   { "name": "[PE] Mundo Beatles Radio (MP3)", "url": "http://stream.zeno.fm/y79be89qxrhvv" },
   { "name": "[PE] Música Urbana Nacional", "url": "https://a11.asurahosting.com:8760/radio.mp3" },
   { "name": "[PE] PBO Radio", "url": "http://n06.radiojar.com/2fse67zuv8hvv?1669054401=&rj-tok=AAABhJtuNOUAIi7Le3h5PA-2VA&rj-ttl=5" },
-  { "name": "[PE] Peru folk radio", "url": "https://raymistream.net/listen/perufolkradio/live" },
-  { "name": "[PE] Peruana Radio", "url": "https://cloudstream2036.conectarhosting.com/8352/stream" },
+  
+  
   { "name": "[PE] Radio 200 Bicentenario", "url": "https://stream.zeno.fm/wgs6m5ewe48uv" },
   { "name": "[PE] Radio A 94.9", "url": "https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjFUaHNDMV9CUzhpa0FsdVNHdS1VRHciLCJpYXQiOjE3ODg2NDkyODcsImV4cCI6MTc4ODY0OTM0N30.SDM64R9JKWm8DeNugVtkQU3ke4hDJ-jfpvQX73h_nFA" },
   { "name": "[PE] Radio A la radio del amor", "url": "https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1pZm5Xc3dlUlBlUHd2V3F1SjRkMlEiLCJpYXQiOjE3ODg2OTk3NTksImV4cCI6MTc4ODY5OTgxOX0.XP23p_qifzXijSesu55f0EgL3m6zzicoqmT-cD9j6gs" },
@@ -1382,16 +1373,7 @@
   { "name": "[PL] Anty Radio", "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361" },
   { "name": "[PL] Antyradio", "url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5" },
   { "name": "[PL] Antyradio", "url": "https://an02.cdn.eurozet.pl/ant-web.mp3" },
-  { "name": "[PL] Antyradio (Katowice)", "url": "http://an01.cdn.eurozet.pl/ant-kat.mp3" },
-  { "name": "[PL] Antyradio Classic Rock", "url": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01" },
-  { "name": "[PL] Antyradio Covers", "url": "http://an.cdn.eurozet.pl/ANTCOV.mp3" },
-  { "name": "[PL] Antyradio Greatest", "url": "https://an02.cdn.eurozet.pl/ANTGRE.mp3" },
-  { "name": "[PL] Antyradio Hard", "url": "https://an05.cdn.eurozet.pl/ANTHAR.mp3" },
-  { "name": "[PL] Antyradio Hard", "url": "https://an01.cdn.eurozet.pl/ANTHAR.mp3" },
-  { "name": "[PL] Antyradio Katowice", "url": "https://ml02.cdn.eurozet.pl/ant-kat.mp3" },
-  { "name": "[PL] Antyradio Made In Poland", "url": "https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04" },
-  { "name": "[PL] Antyradio Makak", "url": "http://an.cdn.eurozet.pl/ANTMAK.mp3" },
-  { "name": "[PL] Antyradio Unplugged", "url": "https://an05.cdn.eurozet.pl/ANTUNP.mp3" },
+ 
   { "name": "[PL] Antyradio Warszawa", "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993" },
   { "name": "[PL] AWANGARDA.FM", "url": "https://stream.zeno.fm/mf9ewmbuaq8uv" },
   { "name": "[PL] AwiroFM", "url": "https://s4.awiro.xyz/stream" },
@@ -1458,7 +1440,7 @@
   { "name": "[PL] Mazurske Radijo", "url": "https://stream-172.zeno.fm/h6af85mhunhvv" },
   { "name": "[PL] Mega Radio", "url": "https://stream.rcs.revma.com/q18ty3qhwzzuv" },
   { "name": "[PL] Melo Radio Śląsk (Katowice)", "url": "https://ml01.cdn.eurozet.pl/mel-ktw.mp3" },
-  { "name": "[PL] MELORADIO FAST SONGS", "url": "http://ml02.cdn.eurozet.pl/MELFST.mp3" },
+  
   { "name": "[PL] Meloradio FM", "url": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5" },
   { "name": "[PL] MELORADIO HOT DANCE", "url": "http://ml02.cdn.eurozet.pl/MELHDN.mp3" },
   { "name": "[PL] Meloradio Kielce", "url": "https://ml03.cdn.eurozet.pl/mel-klc.mp3" },
@@ -1558,12 +1540,7 @@
   { "name": "[PL] Radio Palotti FM", "url": "https://s1.slotex.pl:7074/stream" },
   { "name": "[PL] Radio Parada 96.00 fm", "url": "http://stream4.nadaje.com:15274/live" },
   { "name": "[PL] Radio Paranormalium", "url": "https://azuracast.paranormalium.pl/listen/radio_paranormalium/1" },
-  { "name": "[PL] Radio Pasja - Chillout 128kb/s", "url": "http://91.232.4.33:8108/stream2" },
-  { "name": "[PL] Radio Pasja - Dance 128kb/s", "url": "http://91.232.4.33:9466/stream2" },
-  { "name": "[PL] Radio Pasja - Klubowa 128kb/s", "url": "http://91.232.4.33:9460/stream2" },
-  { "name": "[PL] Radio Pasja - Pop 128kb/s", "url": "http://91.232.4.33:8084/stream2" },
-  { "name": "[PL] Radio Pasja - Relaks 128kb/s", "url": "http://91.232.4.33:8102/stream2" },
-  { "name": "[PL] Radio Pasja 128kb/s", "url": "http://91.232.4.33:8049/stream2" },
+  
   { "name": "[PL] Radio Paweł", "url": "https://s3.slotex.pl/shoutcast/7024/stream" },
   { "name": "[PL] Radio PiK", "url": "http://stream.radiopik.pl:9004/" },
   { "name": "[PL] Radio Plus", "url": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02" },
@@ -1664,10 +1641,7 @@
   { "name": "[PL] VOX FM 128", "url": "https://ic2.smcdn.pl/3990-1.mp3" },
   { "name": "[PL] VOX FM 128kbps", "url": "https://pldm.one.pl/radio?url=https://www.eskago.pl/radio/vox-fm" },
   { "name": "[PL] VOX FM BEST LISTA", "url": "https://ic1.smcdn.pl/6100-1.mp3" },
-  { "name": "[PL] VOX FM BEST LISTA", "url": "http://ic1.smcdn.pl/6100-1.mp3" },
-  { "name": "[PL] VOX FM DISCO 90", "url": "http://ic1.smcdn.pl/6170-1.mp3" },
-  { "name": "[PL] VOX FM DISCO PARTY", "url": "http://ic1.smcdn.pl/6180-1.mp3" },
-  { "name": "[PL] VOX FM HIT 22", "url": "http://ic1.smcdn.pl/6020-1.mp3" },
+  
   { "name": "[PL] Wesoła 43", "url": "http://s1.slotex.pl:7650/stream" },
   { "name": "[PL] Xvibe", "url": "https://xvibe.pl/stream.php" },
   { "name": "[PL] Zamek Nadaje", "url": "http://uksoutha.streaming.broadcast.radio:15190/zameknadaje" },

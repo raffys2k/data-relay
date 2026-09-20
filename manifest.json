@@ -1,6 +1,6 @@
 {
-  "version": 9,
+  "version": 10,
   "stationSources": [
-    "https://raffys2k.github.io/data-relay/MQ.json"
+    "https://raffys2k.github.io/data-relay/RU.json"
   ]
 }
