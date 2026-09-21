@@ -1,0 +1,6 @@
+{
+  "version": 9,
+  "stationSources": [
+    "https://tiny-factory.netlify.app/_datasets/v1.2-release/candidate.json"
+  ]
+}
