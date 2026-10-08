@@ -1,6 +1,6 @@
 {
-  "version": 9,
+  "version": 10,
   "stationSources": [
-    "https://raw.githubusercontent.com/raffys2k/data-relay/main/datasets/v2.06-release/candidate.json"
+    "https://raw.githubusercontent.com/raffys2k/data-relay/main/datasets/v2.06-release/candidate1.json"
   ]
 }
